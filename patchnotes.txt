@@ -1,0 +1,9 @@
+0731
+fixed the gesture detector to track only one perosn
+0801
+deleted the tracked nottracked seated images
+changed the layout to a up and down veiw
+0902
+implemented the quad module
+0904
+added coordinates
